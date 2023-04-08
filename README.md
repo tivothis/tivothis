@@ -1,16 +1,13 @@
-### Hi there 👋
+### Heylo! Thanks for visiting my GitHub Profile!
 
-<!--
-**tivothis/tivothis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏔️🧑🏻‍💻 I'm a fullstack software engineer based in Boulder, CO. 🏔
+- 👾🎨 I'm passionate about the intersection of technology and the arts 
+- 🤜🏽🤛🏼 I love working with other developers and artists to achieve a collective goal
+- ⚡️ I'm currently learning Typscript and Tailwind CSS
+- 🤖 **Languages**: Javascript, React, Node.js, Express.js, Axios, HTML, CSS, PostgreSQL, MySQL, MongoDB
 
-Here are some ideas to get you started:
+**Fun facts:**
+- Worked the past 10 years as a professional theater & television actor
+- I sing, and write music on the drums and guitar
+- I enjoy hiking and the outdoors!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
