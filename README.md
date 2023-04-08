@@ -12,6 +12,6 @@
 - I enjoy hiking, snowboarding and the outdoors
 
 
-**Languages**: 
+**Languages & Tools**: 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,aws,nodejs,express,postgres,mongodb,git&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,postgres,mongodb,aws,git&perline=10)](https://skillicons.dev)
