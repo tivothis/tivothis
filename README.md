@@ -4,8 +4,6 @@
 - 👾 I'm passionate about the intersection of technology and the arts 
 - 🙌🏾 I love working with other developers and artists to achieve a collective goal
 - ⚡️ I'm currently learning Typscript and Tailwind CSS
-
-
 - 🤖 **Languages**: Javascript, React, Node.js, Express.js, Axios, HTML, CSS, PostgreSQL, MySQL, MongoDB
 
 **Fun facts:**
