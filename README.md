@@ -3,7 +3,7 @@
 - 🏔️ I'm a fullstack software engineer based in Boulder, CO. 
 - 👾 I'm passionate about the intersection of technology and the arts 
 - 🙌🏾 I love working with other developers and artists to achieve a collective goal
-- ⚡️ I'm currently learning Typscript and Tailwind CSS
+- ⚡️ I'm currently learning Typscript and Chakra UI
 
 
 ### Fun Facts
