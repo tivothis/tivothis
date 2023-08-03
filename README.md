@@ -5,6 +5,7 @@
 - 🙌🏾 I love working with other developers and artists to achieve a collective goal
 - ⚡️ I'm currently building an Actor Audition Tracking App called "Audition Cat" on GitLab.
 - You can find my GitLab stats here: https://gitlab.com/tivothis
+- To see my portfolio, go to: https://votony.dev
 
 
 ### Fun Facts
