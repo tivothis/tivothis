@@ -4,7 +4,7 @@
 - 👾 I'm passionate about the intersection of technology and the arts 
 - 🙌🏾 I love working with other developers and artists to achieve a collective goal
 - ⚡️ I'm currently building an Actor Audition Tracking App called "Audition Cat" on GitLab.
-- Find me on Gitlab: https://gitlab.com/tivothis
+- Most active on Gitlab: https://gitlab.com/tivothis
 - My portfolio: https://votony.dev
 
 
